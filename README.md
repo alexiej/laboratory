@@ -5,4 +5,4 @@ Code Examples &amp; Workshops
 
 ## List of codes:
 
-* `07. RECOMMENDATION SYSTEM` - Recommendation system metrics <a href="https://colab.research.google.com/drive/1SBx6nolnsqvlQLhlLjUz8VQi7ylJsZ4x" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a>
+*  <a href="https://colab.research.google.com/drive/1SBx6nolnsqvlQLhlLjUz8VQi7ylJsZ4x" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `07. RECOMMENDATION SYSTEM`: Recommendation system metrics 
