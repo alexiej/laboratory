@@ -12,3 +12,6 @@ Code Examples &amp; Workshops
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/07_rapids_colab.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `07. rapids-colab.ipynb`: Even 2000x time faster library than numpy or pandas based on GPU: https://rapids.ai/
 
 
+*  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/09_Magenta_Example_creating_a_music.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `09 - Magenta - Example creating a music.ipynb`: Example of creating music using Machine Learning ad Magenta Library.
+
+
