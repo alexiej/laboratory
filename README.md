@@ -15,3 +15,9 @@ Code Examples &amp; Workshops
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/09_Magenta_Example_creating_a_music.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `09 - Magenta - Example creating a music.ipynb`: Example of creating music using Machine Learning ad Magenta Library.
 
 
+# 20. KERAS
+
+## 01. KERAS BASIC API
+
+*  <a href="https://colab.research.google.com/drive/1HIApglvqDf6OqHXFtwp-iym0jD7gz0bX" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `20.00 Keras API functional .ipynb`: Some basic functions of creating model, fit, layers. 
+**Used classes/functions**: `keras.layers.Input`, `keras.layers.Dense`, `keras.models.Model`, `model.compile()`, `model.summary()`, `model.fit()`, `model.evaluate`,  `keras.utils.plot_model`, `keras.datasets.boston_housing`
