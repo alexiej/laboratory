@@ -5,7 +5,7 @@ Code Examples &amp; Workshops
 
 # 00. PYTHON BASICS
 
-* <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/00_00_Python_basics_References.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/github/alexiej/laboratory/blob/master/00_00_Python_basics_References.ipynb)</a> `00.00 Python basics - References.ipynb`: Basic Global, local varibales, `sys.modules`, `sys.getrefcount`
+* <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/00_00_Python_basics_References.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `00.00 Python basics - References.ipynb`: Basic Global, local varibales, `sys.modules`, `sys.getrefcount`
 
 ## List of codes examples:
 
