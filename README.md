@@ -25,3 +25,7 @@ Code Examples &amp; Workshops
 
 *  <a href="https://colab.research.google.com/drive/1HIApglvqDf6OqHXFtwp-iym0jD7gz0bX" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `20.00 Keras API functional .ipynb`: Some basic functions of creating model, fit, layers. 
 **Used classes/functions**: `keras.layers.Input`, `keras.layers.Dense`, `keras.models.Model`, `model.compile()`, `model.summary()`, `model.fit()`, `model.evaluate`,  `keras.utils.plot_model`, `keras.datasets.boston_housing`
+
+
+
+*  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/20_01_Keras_API_functional_Embedding_Layers_.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `20.01 Keras API functional: Embedding Layers`: Information about Embedding layers for Colab. 
