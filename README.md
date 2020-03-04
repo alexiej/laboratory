@@ -29,3 +29,9 @@ Code Examples &amp; Workshops
 
 
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/20_01_Keras_API_functional_Embedding_Layers_.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `20.01 Keras API functional: Embedding Layers`: Information about Embedding layers for Colab. 
+
+
+# 30. GAN
+
+*  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/30_00_GAN_CycleGAN.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `30.00 GAN: CycleGAN.ipynb`: CycleGAN Implementatioin in PyTorch, example of onverting daynight images.
+
