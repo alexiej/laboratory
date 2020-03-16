@@ -35,3 +35,8 @@ Code Examples &amp; Workshops
 
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/30_00_GAN_CycleGAN.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `30.00 GAN: CycleGAN.ipynb`: CycleGAN Implementatioin in PyTorch, example of onverting daynight images.
 
+* <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/30_02_Voie_Translation_Neural_Style_Transfer.ipynb
+" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `30.02 GAN: VoceGan.ipynb`: Voce GAN style Transfer.
+
+
+
