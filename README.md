@@ -7,6 +7,7 @@ Code Examples &amp; Workshops
 
 * <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/00_00_Python_basics_References.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `00.00 Python basics - References.ipynb`: Basic Global, local varibales, `sys.modules`, `sys.getrefcount`
 
+
 ## List of codes examples:
 
 * <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/06_Time_Series_Forecasting.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `06. Time Series Forecasting - Tensorflow 2.x`: Time Series Forecasting 
@@ -17,6 +18,13 @@ Code Examples &amp; Workshops
 
 
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/09_Magenta_Example_creating_a_music.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `09 - Magenta - Example creating a music.ipynb`: Example of creating music using Machine Learning ad Magenta Library.
+
+# 10. Machine Learning
+
+## 1.1 SKLEARN
+
+
+* <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/1_11_Machine_Learning_Learning_Curve.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `1.11 Machine Learning - Learning Curve.ipynb`: Learning Curve shows how train_test_split works.
 
 
 # 20. KERAS
