@@ -21,6 +21,12 @@ Code Examples &amp; Workshops
 
 # 10. Machine Learning
 
+## 1.0 Basic
+
+
+* <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/1_0_1_Label_One_hot_encoding.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `1.0.1 - Label/One-hot encoding.ipynb`: Label Encoding, One-Hot encoding.
+
+
 ## 1.1 SKLEARN
 
 
