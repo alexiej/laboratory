@@ -28,7 +28,7 @@ Code Examples &amp; Workshops
 
 #### AUC
 
-![AUC](./assets/auc.png)
+![AUC](https://raw.githubusercontent.com/alexiej/laboratory/master/assets/AUC.png)
 
 
 
