@@ -19,6 +19,11 @@ Code Examples &amp; Workshops
 
 *  <a href="https://colab.research.google.com/github/alexiej/laboratory/blob/master/09_Magenta_Example_creating_a_music.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `09 - Magenta - Example creating a music.ipynb`: Example of creating music using Machine Learning ad Magenta Library.
 
+# 05. DATA FRAME AND DATA
+
+*  <a href="https://github.com/alexiej/laboratory/blob/master/0_5_3_DataFrame_DASK.ipynb" target="_blank" rel="Open in Colab">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> `0.5.3 DataFrame - DASK`: Faster than Pandas DataFrame for BigData.
+
+
 # 10. Machine Learning
 
 ## 1.0 Basic
